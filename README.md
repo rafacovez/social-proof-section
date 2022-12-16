@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub repository](https://github.com/rafacovez/social-proof-section)
-- Live Site URL: [Live site](social-proof-section-nn2nfz2gh-rafdidact.vercel.app)
+- Live Site URL: [Live site](https://social-proof-section-l1i5zi7z5-rafdidact.vercel.app/)
 
 ## Author
 

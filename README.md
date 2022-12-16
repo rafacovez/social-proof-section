@@ -1,4 +1,4 @@
-# Frontend Mentor - Product preview card component on Frontend Mentor
+# Frontend Mentor - Social proof section on Frontend Mentor
 
 This is a solution to the [Social proof section](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA/hub). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 

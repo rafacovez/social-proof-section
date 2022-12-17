@@ -1,4 +1,4 @@
-# Frontend Mentor - Product preview card component on Frontend Mentor
+# Frontend Mentor - Social proof section on Frontend Mentor
 
 This is a solution to the [Social proof section](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA/hub). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub repository](https://github.com/rafacovez/social-proof-section)
-- Live Site URL: [Live site](social-proof-section-nn2nfz2gh-rafdidact.vercel.app)
+- Live Site URL: [Live site](https://social-proof-section-l1i5zi7z5-rafdidact.vercel.app/)
 
 ## Author
 
